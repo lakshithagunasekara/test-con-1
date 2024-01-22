@@ -1,7 +1,7 @@
 # this is a required setting for this theme to appear on https://themes.gohugo.io/
 # change this to a value appropriate for you; if your site is served from a subdirectory
 # set it like "https://example.com/mysite/"
-baseURL = "https://example.com/"
+baseURL = "https://sensational-basbousa-07c353.netlify.app/"
 
 # canonicalization will only be used for the sitemap.xml and index.xml files;
 # if set to false, a site served from a subdirectory will generate wrong links
@@ -30,7 +30,7 @@ defaultContentLanguage = "en"
 # disableLanguages = ['pir']
 
 # the site's title of this showcase; you should change this ;-)
-title = "IEEE conferernce for Industrial Electronics 2024"
+title = "IEEE conferernce for Power Energy 2024"
 
 [outputs]
   # add JSON to the home to support Lunr search; This is a mandatory setting
@@ -78,7 +78,7 @@ title = "IEEE conferernce for Industrial Electronics 2024"
 # your project
 [languages]
   [languages.en]
-    title = "Webiste for IEEE conferernce for Industrial Electronics 2024"
+    title = "Webiste for IEEE conferernce for Power Energy 2024"
     weight = 1
     languageName = "English"
     # Language dependend settings:
